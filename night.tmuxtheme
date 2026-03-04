@@ -46,7 +46,7 @@ set -goqF @inq-colours-status-right-area-middle-fg "#{@inq-colours-status-bg}"
 
 set -goq  @inq-colours-window-status-activity-bg yellow
 set -goq  @inq-colours-window-status-activity-fg black
-set -goq  @inq-colours-window-status-current-bg "#fab387"
+set -goq  @inq-colours-window-status-current-bg "#c9ac17"
 set -goq  @inq-colours-window-status-current-fg "#1e1e2e"
 
 # Theme format options
